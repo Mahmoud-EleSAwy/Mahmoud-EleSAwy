@@ -12,5 +12,4 @@
 - Linux
 - Networks fundamentals
 
-### 📫 Contact
-- Lindedin: https://www.linkedin.com/in/mahmoud-elesawy/
+
