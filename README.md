@@ -11,5 +11,6 @@
 - Python
 - Linux
 - Networks fundamentals
+- Cryptography Fundamentals
 
 
